@@ -7,4 +7,6 @@ Just some source collections and scripts. Help yourself.
 
 
 # Script Usage
-$curl -sSL https://raw.githubusercontent.com/xxoommd/Collections/master/Scripts/install_pptpd.sh | sh
+
+## Ubuntu 14
+# curl -sSL https://raw.githubusercontent.com/xxoommd/Collections/master/Scripts/ubuntu14-install_pptpd.sh | sh
